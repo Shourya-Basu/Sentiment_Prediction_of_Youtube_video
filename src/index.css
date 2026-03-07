@@ -1,0 +1,9 @@
+@font-face {
+    font-family: knewave;
+    src: url("../src/Components/Font/RubikDistressed-Regular.ttf");
+}
+@import "tailwindcss";
+
+@theme{
+    --font-Knewave: knewave,"sans-serif";
+}
