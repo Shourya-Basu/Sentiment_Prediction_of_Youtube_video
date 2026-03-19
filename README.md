@@ -1,4 +1,4 @@
-# Sentiment Prediction of Youtube video
+# Sentiment Prediction of YouTube video
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -8,7 +8,7 @@
 
 
 ### Introduction 
-Build and deploy a webpage on YouTube communet Sentiment Prediction and automatically determines whether the sentiment of the comments is positive, negative, or neutral.
+Build and deploy a webpage on YouTube comments Sentiment Prediction and automatically determines whether the sentiment of the comments is positive, negative, or neutral.
 
 
 ---
